@@ -38,8 +38,10 @@ footer:
 #       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: http://github.com/HanNayeoniee
-    - name: Blog
-      link: https://log4yeoniee.tistory.com/
+    - name : velog
+      link : https://velog.io/@ny_
+#     - name: Blog
+#       link: https://log4yeoniee.tistory.com/
 #     - name: Dribbble
 #       link: https://dribbble.com/YourDribbbleUsername
 #     - name: RSS
