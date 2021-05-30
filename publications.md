@@ -32,3 +32,7 @@ __[2] 딥러닝 기반 음성을 통한 트라우마 스크리닝 장치 및 방
 졸업 프로젝트<br>
 `trauma` `CNN` `voice` `spectrogram` `emotion`<br><br>
 
+__[3] 근적외선 피부 영상을 통한 비접촉식 피부 땀 반응 대체센싱__<br>
+한국과학창의재한 학부생 연구 프로그램<br>
+`Galvanic Skin Response` `biosignal` `near infrared camera` `image processing`<br><br>
+
